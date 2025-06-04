@@ -72,7 +72,7 @@ A powerful and modular backend application for a complete crypto trading platfor
 
 ---
 
-📽 **Demo Video (Postman + Chatbot in Action):** _Coming soon_  
+📽 **Demo Video (Postman + Chatbot in Action):** https://drive.google.com/file/d/1yiktAg58U8350A1Y_AcJnHTtCHP9d0dS/view?usp=drive_link  
 🔗 **GitHub Source Code:** https://github.com/MiteshDhangar/Crypto-Trading-Platform
 
 ---
