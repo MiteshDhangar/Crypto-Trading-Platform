@@ -73,13 +73,10 @@ A powerful and modular backend application for a complete crypto trading platfor
 ---
 
 📽 **Demo Video (Postman + Chatbot in Action):** _Coming soon_  
-🔗 **GitHub Source Code:** _This repo_  
+🔗 **GitHub Source Code:** https://github.com/MiteshDhangar/Crypto-Trading-Platform
 
 ---
 
 💬 **Open to Collaborate:**  
 Interested in building the frontend or working on deployment? Let’s connect and bring this platform to life!
 
----
-
-#Java #SpringBoot #Crypto #GeminiAI #CoinGecko #FinTech #BackendDevelopment #RESTAPI #MicroservicesReady #JWT #Postman #Stripe #Razorpay #DeveloperProject
